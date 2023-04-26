@@ -5,6 +5,20 @@
 * ポケモン
 * ラーメン
 * 梨
+* ノーチラス４７
 ### 特技
-* [スプラ](https://www.nintendo.co.jp/switch/av5ja/index.html)
+* スプラ
 * 釣りスピリッツ
+#### スプラ公式イラスト
+![スプラのイラスト](https://user-images.githubusercontent.com/131843605/234478315-138d687f-4cae-459c-9b30-55a11d64f11d.jpg)
+### 出身地
+* バッテラストリート
+#### バッテラストリート
+![スプラステージ１](https://user-images.githubusercontent.com/131843605/234479578-e1dd1373-cefc-4058-80f4-e0442b0fedf6.jpg)
+### 成績
+|ルール|最高パワー|
+|---|---|
+|エリア|　2412xp　|
+|ホコ　|　2510xp　|
+|ヤグラ|　2452xp　|
+|アサリ|　2566xp　|
